@@ -1,0 +1,5 @@
+node_modules/
+backend/node_modules/
+military-asset-management/node_modules/
+military.db
+.env
